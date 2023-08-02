@@ -1,2 +1,3 @@
 # NewsMania
-NewsMania is a news aggregator app built with React.js. It fetches the latest headlines from various reputable sources and presents them in one place. Stay updated with trending news in real-time with this intuitive and responsive web application.
+NewsMania is a responsive web application built using React.js, designed to keep you updated with the latest headlines from various reputable news sources. Stay informed and connected with trending news from around the world, all in one place.
+
